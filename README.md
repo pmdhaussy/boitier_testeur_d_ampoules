@@ -7,3 +7,5 @@ Destiné prinicpalement à la réparation des ampoules facilement réparables te
 Très fortement inspiré par le projet CP0035 de Cyrob (Philliphe Demerliac). Plus d'informations ici :
 - http://philippe.demerliac.free.fr/Misc.htm#BDT
 - https://www.youtube.com/watch?v=_JDx5NFN9vI
+
+![photo1](https://user-images.githubusercontent.com/3735794/193458364-3d758e95-4f04-4c93-9a1c-bd0ded3a2433.jpg)
